@@ -34,6 +34,9 @@ Full audit in [`audit-checklist.md`](./audit-checklist.md)
 - Email reminders for follow-ups (mock or real)
 - Resume version tracking per application
 
+🤝 Contributions
+Want to improve analytics, export logic, or data visualization? PRs that add filters, export formats, or smarter summary views are encouraged. Contributions focused on security or usability are also welcome.
+
 ## 🚀 Getting Started
 
 ```bash
